@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96fd7e4f7538b497dbdd312dbddebc41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timeBar: {fileID: 1684820413338797868, guid: dc5a22e75d736cd4ab51d1bc00198977,
+      type: 3}
+  - startUpText: {instanceID: 0}
+  - timesUpText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
